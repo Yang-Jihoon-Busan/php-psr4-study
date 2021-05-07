@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'Jihoon\\Review' => $baseDir . '/src/Review.php',
     'Jihoon\\Settings\\MyClass2' => $baseDir . '/src/Settings/MyClass2.php',
     'Jihoon\\User\\MyClass1' => $baseDir . '/src/User/MyClass1.php',
 );

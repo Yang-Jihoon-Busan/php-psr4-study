@@ -22,6 +22,7 @@ class ComposerStaticInitd8a17f9a9149e53c0afbd70057e8a714
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Jihoon\\Review' => __DIR__ . '/../..' . '/src/Review.php',
         'Jihoon\\Settings\\MyClass2' => __DIR__ . '/../..' . '/src/Settings/MyClass2.php',
         'Jihoon\\User\\MyClass1' => __DIR__ . '/../..' . '/src/User/MyClass1.php',
     );
